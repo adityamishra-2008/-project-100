@@ -1,0 +1,29 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+img {
+    border: solid 10px transparent;
+}
+img:hover {
+    border-color: rgb(110, 110, 110);
+    border-radius:45px;
+}
+body{
+    background: linear-gradient(90deg, rgb(247, 0, 214) 0%, rgb(29, 253, 130) 55%, rgb(180, 245, 0) 82%);
+}
